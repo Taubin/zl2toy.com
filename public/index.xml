@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ZL2TOY</title>
+        <link>http://localhost:49600/</link>
+        <description>Recent content on ZL2TOY</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 31 Oct 2024 14:24:26 +1300</lastBuildDate><atom:link href="http://localhost:49600/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:49600/about/</link>
+        <pubDate>Thu, 31 Oct 2024 14:24:26 +1300</pubDate>
+        
+        <guid>http://localhost:49600/about/</guid>
+        <description>&lt;h2 id=&#34;zl2toy&#34;&gt;ZL2TOY
+&lt;/h2&gt;&lt;p&gt;ZL2TOY is my father in laws former callsign. I was able to take a local &amp;ldquo;ham cram&amp;rdquo; class in 2020 at my local radio club, and to my relief I passed the exam, and was able to pick my callsign. A week or so later, I was informed I was assigned the callsign I had requested, and the rest as they say, is history.&lt;/p&gt;
+&lt;p&gt;I am an American that is currently living in New Zealand as a permanent resident. Since getting licensed, my interest are mostly digital modes.&lt;/p&gt;
+&lt;p&gt;I also have a personal blog at &lt;a class=&#34;link&#34; href=&#34;https://taubin.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://taubin.cc/&lt;/a&gt; I&amp;rsquo;ll be adding all of my new ham radio content here instead of there. You can also visit my &lt;a class=&#34;link&#34; href=&#34;https://www.qrz.com/db/ZL2TOY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;QRZ Page&lt;/a&gt;. I do my logging there as well as (begrudgingly) LOTW.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
